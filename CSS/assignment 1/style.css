@@ -1,0 +1,40 @@
+.container{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:turquoise;
+
+}
+
+.APJ{
+    
+    text-shadow: 3px 0px white;
+}
+
+.image{
+    border: 2px solid black;
+    width:fit-content;
+    height: fit-content;
+
+}
+    
+.about{
+    border: 2px solid black;
+    background-color: darkcyan;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow:4px -3px yellow;
+}
+
+.text{
+    color: white;
+    text-shadow: 3px 0px black;
+    
+}
+
+.refenrence{
+    
+}
